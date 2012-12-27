@@ -10,5 +10,5 @@ CHANGE LOG
 
 0.1 Initial Version
 
- -The fixHeight option added 
+ -The fixHeight option added. 
    If fixHeight is true, the text are fitted with the height of the element. Default value is false.
